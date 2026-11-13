@@ -1,0 +1,11 @@
+{
+  "customer": {
+    "name": "Alex Rivera",
+    "email": "alex.rivera@example.com"
+  },
+  "drinks": {
+    "first": "Espresso",
+    "second": "Espresso Macchiato",
+    "third": "Cappuccino"
+  }
+}
